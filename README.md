@@ -1,7 +1,7 @@
 # Guillermo Rojo
 
 ## 
-Soy **Mexicano**, Ingeniero en Sistemas y actualmente desarrollo en PHP, Elixir y NodeJs, haciendo desarrollo BackEnd, uso los frameworks Yi2 y Phoenix
+Soy **Mexicano**, Ingeniero en Sistemas y actualmente desarrollo en PHP, Elixir y NodeJs, haciendo desarrollo BackEnd, uso los frameworks Yii2 y Phoenix
 
 ## Lista de algunos comandos aprendidos en Semana 1, Clase 1
 
