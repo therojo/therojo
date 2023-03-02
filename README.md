@@ -1,16 +1,14 @@
-### Hi there 👋
+# Guillermo Rojo
 
-<!--
-**therojo/therojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 
+Soy **Mexicano**, Ingeniero en Sistemas y actualmente desarrollo en PHP, Elixir y NodeJs, haciendo desarrollo BackEnd, uso los frameworks Yi2 y Phoenix
 
-Here are some ideas to get you started:
+## Lista de algunos comandos aprendidos en Semana 1, Clase 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|#|Comando|Descripcion|
+|--|--- |--- |
+|1| Ctrl+r           | Busqueda de un comando ejecutado, se realiza en consola y busca en el history de comandos ejecutados, su uso es para no volver a teclearlo, solo lo buscas y lo ejecutas con los cambios que ocupes hacerle
+|2| cat ruta_archivo \| grep palabra          | Muestra las lineas(texto) de un determinado archivo y que estas contengan la palabra especificada por grep|
+|3| hexdump               | Muestra el contenido de un archivo en un formato hexadecimal, octal o decimal de acuerdo al parametro que se le especifique|
+|4| ls         | Lista el contenido de la ruta actual|
+|5| more          | Pagina los resultados del comando anterior, por ejemplo ls -la \| more|
