@@ -1,5 +1,7 @@
 # Guillermo Rojo
 
+:runner:
+
 ## 
 Soy **Mexicano**, Ingeniero en Sistemas y actualmente desarrollo en PHP, Elixir y NodeJs, haciendo desarrollo BackEnd, uso los frameworks Yii2 y Phoenix
 
