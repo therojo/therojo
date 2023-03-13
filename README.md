@@ -19,7 +19,7 @@ cual es absorbido o incluido en ~/.bashrc
 
 ## Lista de algunos comandos de linux aprendidos en Semana 1, Clase 1
 
-|#|Comando|Descripcion|
+|#|Comando|Descripción|
 |--|--- |--- |
 |1| Ctrl+r           | Busqueda de un comando ejecutado, se realiza en consola y busca en el history de comandos ejecutados, su uso es para no volver a teclearlo, solo lo buscas y lo ejecutas con los cambios que ocupes hacerle
 |2| cat ruta_archivo \| grep palabra          | Muestra las lineas(texto) de un determinado archivo y que estas contengan la palabra especificada por grep|
