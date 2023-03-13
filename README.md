@@ -5,12 +5,15 @@
 ## 
 Soy **Mexicano**, Ingeniero en Sistemas y actualmente desarrollo en PHP, Elixir y NodeJs, haciendo desarrollo BackEnd, uso los frameworks Yii2 y Phoenix
 
-## Ejemplo de los alias que estoy usando actualmente, son pocos,pero ire agregando mas, estos alias puedes agregarlos en el archivo ~/.bash_aliases, el cual es absorbido o incluido en ~/.bashrc
+## Ejemplo de los alias que estoy usando actualmente, son pocos,pero ire agregando mas, estos alias puedes agregarlos en el archivo ~/.bash_aliases, el 
+cual es absorbido o incluido en ~/.bashrc
 
+```
 1. alias gow="cd /var/www/html"
 2. alias init_phx="cd ~/elixir2022/app; sudo iex -S mix phx.server"
 3. alias godu="cd ~/dumps/"
 4. alias glog="git log --oneline --decorate --graph"
+```
 
 *El segundo alias lo que hace es ir a un proyecto de phoenix(elixir) y arrancar el server, el alias incluye dos comandos, uno ir a la carpeta del proyecto, la cual se ejecuta o delimitia con ; y luego se ejecuto el segundo comando.*
 
